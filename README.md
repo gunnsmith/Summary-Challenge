@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-solution-ahNHZG7db](https://www.frontendmentor.io/solutions/html-and-css-solution-ahNHZG7db)
+- Live Site URL: [https://gunnsmith.github.io/Summary-Challenge/](https://gunnsmith.github.io/Summary-Challenge/)
 
 ## My process
 
