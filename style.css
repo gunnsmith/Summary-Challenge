@@ -45,13 +45,15 @@ button {
   padding: 15px;
 }
 
-.color-btn {
+.color-btn,
+.color-btn:visited {
   color: white;
   background-color: hsl(245, 75%, 52%);
   margin-bottom: 20px;
 }
 
-.ghost-btn {
+.ghost-btn,
+.ghost-btn:visited {
   color: hsl(224, 23%, 55%);
   background-color: white;
   margin-bottom: 30px;
@@ -63,7 +65,7 @@ button {
   background-color: hsl(245, 58%, 60%);
   font-weight: 700;
   cursor: pointer;
-  transition: 80ms;
+  transition: 250ms;
 }
 
 .ghost-btn:hover,
@@ -71,7 +73,7 @@ button {
   color: hsl(223, 47%, 23%);
   font-weight: 900;
   cursor: pointer;
-  transition: 80ms;
+  transition: 250ms;
 }
 
 .plan-box a:hover,
@@ -79,7 +81,7 @@ button {
   color: hsl(245, 58%, 60%);
   cursor: pointer;
   text-decoration: none;
-  transition: 80ms;
+  transition: 250ms;
 }
 
 img {
@@ -89,7 +91,7 @@ img {
 .summary-box {
   align-items: center;
   text-align: center;
-  margin: 105px auto auto;
+  margin: 6.5626rem auto auto;
   width: 450px;
   display: flex;
   flex-direction: column;
@@ -116,7 +118,8 @@ img {
   margin-left: 25px;
 }
 
-.plan-box a {
+.plan-box a,
+.plan-box a:visited {
   color: hsl(245, 75%, 52%);
   font-weight: 700;
   font-size: 14px;
